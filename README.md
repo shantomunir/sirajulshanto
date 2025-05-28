@@ -1,1 +1,135 @@
-# sirajulshanto
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <title>Sirajul Munir Shanto - Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+    header {
+      background-color: #2c3e50;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+    }
+    header p {
+      margin: 5px 0 0;
+    }
+    .profile-img {
+      display: block;
+      margin: 20px auto;
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      object-fit: cover;
+      box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    }
+    main {
+      padding: 20px;
+    }
+    section {
+      margin-bottom: 30px;
+    }
+    h2 {
+      color: #2c3e50;
+      border-bottom: 2px solid #2c3e50;
+      padding-bottom: 5px;
+    }
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    li {
+      background-color: white;
+      margin-bottom: 10px;
+      padding: 15px;
+      border-radius: 5px;
+      box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    }
+    footer {
+      background-color: #2c3e50;
+      color: white;
+      text-align: center;
+      padding: 10px 0;
+    }
+    a {
+      color: #3498db;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Sirajul Munir Shanto</h1>
+    <p>HR Specialist | Bulk Recruiter</p>
+  </header>
+
+  <!-- প্রোফাইল ছবি -->
+  <img src="profile.jpg" alt="Sirajul Munir Shanto" class="profile-img">
+
+  <main>
+
+    <section>
+      <h2>About Me</h2>
+      <p>I am Sirajul Munir Shanto, a confident and results-driven HR Executive with a strong passion for people management and organizational development. Currently, I am working at Shohoz Software, where I manage recruitment processes, coordinate onboarding, and contribute to employee engagement and retention strategies.
+
+I began my HR journey at HealthOS Limited as a Junior Executive, where I gained hands-on experience in bulk hiring, interview coordination, and HR operations. My approach to human resources is centered around aligning talent with business goals, fostering a positive workplace culture, and ensuring continuous professional growth for employees.
+
+I believe that people are the most valuable asset of any organization. With a keen eye for talent and a commitment to excellence, I strive to create meaningful HR strategies that support both organizational success and employee satisfaction.</p>
+    </section>
+
+    <section>
+      <h2>Experience</h2>
+      <ul>
+        <li>
+          <strong>Shohoz Software</strong><br>
+          HR Executive<br>
+          Feb 2025 - Present
+        </li>
+        <li>
+          <strong>HealthOS Limited</strong><br>
+          JR Executive<br>
+          Nov 2023 - Oct 2024
+        </li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Skill</h2>
+      <ul>
+        <li>Recruitement</li>
+        <li>Team Management</li>
+        <li>HR Strategy</li>
+        <li>Communication skill</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Contact</h2>
+      <p>Mobile: <a href="tel:01643886690">01643886690</a></p>
+      <p>Email: <a href="mailto:sirajulmunirshanto6@gmail.com">sirajulmunirshanto6@gmail.com</a></p>
+    </section>
+
+    <section>
+      <h2>Social Media</h2>
+      <p><a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BloHglAekShijXYQFnFxkLA%3D%3D" target="_blank">LinkedIn</a></p>
+      <p><a href="https://www.facebook.com/sirajulmonir.shanto/" target="_blank">Facebook</a></p>
+      <p><a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fsirajul_munir_shanto%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExNkNZeWxLa25JQUZzZ2pyQgEeXSE8qCMmtj08h9-CPdLzF_fwf2ClsgaSYOY2zHl4WgKUiiI_hb-9tUADg4g_aem_fG3f4e4AkxEa965SJ1yIRg&h=AT0JucDP5LAX9dOwvHcpdYnqZBItrzYkkTPzhiDnyCMAZXPeJ1mEbCsE2Ud9CX4EyCPa_lY32p744g1PiziDdp4xpksmSdFKIf7U6z0a51IW_Bp78Jvki4D_26bhWwtRZlce" target="_blank">Instagram</a></p>
+    </section>
+
+  </main>
+
+  <footer>
+    &copy; 2025 Sirajul Munir Shanto
+  </footer>
+
+</body>
+</html>
